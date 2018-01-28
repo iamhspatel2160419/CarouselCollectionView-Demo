@@ -7,14 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E0CA7DC1201DC5F5003F5C8D /* Simulator Screen Shot - iPhone 6s - 2018-01-28 at 00.47.37.png in Resources */ = {isa = PBXBuildFile; fileRef = E0CA7DC0201DC5F4003F5C8D /* Simulator Screen Shot - iPhone 6s - 2018-01-28 at 00.47.37.png */; };
+		E0CA7DC5201DC60B003F5C8D /* Simulator Screen Shot - iPhone 6s - 2018-01-28 at 00.47.52.png in Resources */ = {isa = PBXBuildFile; fileRef = E0CA7DC4201DC60B003F5C8D /* Simulator Screen Shot - iPhone 6s - 2018-01-28 at 00.47.52.png */; };
 		E0E002D2201D630500FB05D3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0E002D1201D630500FB05D3 /* AppDelegate.swift */; };
 		E0E002D4201D630500FB05D3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0E002D3201D630500FB05D3 /* ViewController.swift */; };
 		E0E002D7201D630500FB05D3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0E002D5201D630500FB05D3 /* Main.storyboard */; };
 		E0E002D9201D630500FB05D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0E002D8201D630500FB05D3 /* Assets.xcassets */; };
 		E0E002DC201D630500FB05D3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0E002DA201D630500FB05D3 /* LaunchScreen.storyboard */; };
+		E0E002E5201D635500FB05D3 /* Interest.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0E002E4201D635500FB05D3 /* Interest.swift */; };
+		E0E002E7201D738800FB05D3 /* InterestCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0E002E6201D738800FB05D3 /* InterestCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E0CA7DC0201DC5F4003F5C8D /* Simulator Screen Shot - iPhone 6s - 2018-01-28 at 00.47.37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Simulator Screen Shot - iPhone 6s - 2018-01-28 at 00.47.37.png"; path = "../Simulator Screen Shot - iPhone 6s - 2018-01-28 at 00.47.37.png"; sourceTree = "<group>"; };
+		E0CA7DC4201DC60B003F5C8D /* Simulator Screen Shot - iPhone 6s - 2018-01-28 at 00.47.52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 6s - 2018-01-28 at 00.47.52.png"; sourceTree = "<group>"; };
+		E0CA7DC7201DC623003F5C8D /* Simulator Screen Shot - iPhone 6s - 2018-01-28 at 00.47.37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 6s - 2018-01-28 at 00.47.37.png"; sourceTree = "<group>"; };
+		E0CA7DC8201DC631003F5C8D /* Simulator Screen Shot - iPhone 6s - 2018-01-28 at 00.47.37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Simulator Screen Shot - iPhone 6s - 2018-01-28 at 00.47.37.png"; path = "../../../../Simulator Screen Shot - iPhone 6s - 2018-01-28 at 00.47.37.png"; sourceTree = "<group>"; };
+		E0CA7DC9201DC643003F5C8D /* Simulator Screen Shot - iPhone 6s - 2018-01-28 at 00.47.37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Simulator Screen Shot - iPhone 6s - 2018-01-28 at 00.47.37.png"; path = "../../../../Simulator Screen Shot - iPhone 6s - 2018-01-28 at 00.47.37.png"; sourceTree = "<group>"; };
 		E0E002CE201D630400FB05D3 /* CarouselCollectionView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CarouselCollectionView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0E002D1201D630500FB05D3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E0E002D3201D630500FB05D3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +31,8 @@
 		E0E002D8201D630500FB05D3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E0E002DB201D630500FB05D3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E0E002DD201D630500FB05D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0E002E4201D635500FB05D3 /* Interest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Interest.swift; sourceTree = "<group>"; };
+		E0E002E6201D738800FB05D3 /* InterestCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InterestCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +46,45 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E0CA7DC6201DC623003F5C8D /* Snapshots */ = {
+			isa = PBXGroup;
+			children = (
+				E0CA7DC0201DC5F4003F5C8D /* Simulator Screen Shot - iPhone 6s - 2018-01-28 at 00.47.37.png */,
+				E0CA7DC7201DC623003F5C8D /* Simulator Screen Shot - iPhone 6s - 2018-01-28 at 00.47.37.png */,
+				E0CA7DC8201DC631003F5C8D /* Simulator Screen Shot - iPhone 6s - 2018-01-28 at 00.47.37.png */,
+				E0CA7DC9201DC643003F5C8D /* Simulator Screen Shot - iPhone 6s - 2018-01-28 at 00.47.37.png */,
+				E0CA7DC4201DC60B003F5C8D /* Simulator Screen Shot - iPhone 6s - 2018-01-28 at 00.47.52.png */,
+			);
+			path = Snapshots;
+			sourceTree = "<group>";
+		};
+		E0CA7DCA201DC668003F5C8D /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				E0E002D5201D630500FB05D3 /* Main.storyboard */,
+				E0E002E6201D738800FB05D3 /* InterestCollectionViewCell.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		E0CA7DCB201DC684003F5C8D /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				E0E002D3201D630500FB05D3 /* ViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		E0CA7DCC201DC694003F5C8D /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				E0E002D8201D630500FB05D3 /* Assets.xcassets */,
+				E0E002DA201D630500FB05D3 /* LaunchScreen.storyboard */,
+				E0E002DD201D630500FB05D3 /* Info.plist */,
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
 		E0E002C5201D630400FB05D3 = {
 			isa = PBXGroup;
 			children = (
@@ -54,14 +104,22 @@
 		E0E002D0201D630400FB05D3 /* CarouselCollectionView */ = {
 			isa = PBXGroup;
 			children = (
+				E0E002E3201D631300FB05D3 /* Model */,
 				E0E002D1201D630500FB05D3 /* AppDelegate.swift */,
-				E0E002D3201D630500FB05D3 /* ViewController.swift */,
-				E0E002D5201D630500FB05D3 /* Main.storyboard */,
-				E0E002D8201D630500FB05D3 /* Assets.xcassets */,
-				E0E002DA201D630500FB05D3 /* LaunchScreen.storyboard */,
-				E0E002DD201D630500FB05D3 /* Info.plist */,
+				E0CA7DC6201DC623003F5C8D /* Snapshots */,
+				E0CA7DCB201DC684003F5C8D /* Controllers */,
+				E0CA7DCA201DC668003F5C8D /* Views */,
+				E0CA7DCC201DC694003F5C8D /* New Group */,
 			);
 			path = CarouselCollectionView;
+			sourceTree = "<group>";
+		};
+		E0E002E3201D631300FB05D3 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				E0E002E4201D635500FB05D3 /* Interest.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,9 +181,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E0CA7DC5201DC60B003F5C8D /* Simulator Screen Shot - iPhone 6s - 2018-01-28 at 00.47.52.png in Resources */,
 				E0E002DC201D630500FB05D3 /* LaunchScreen.storyboard in Resources */,
 				E0E002D9201D630500FB05D3 /* Assets.xcassets in Resources */,
 				E0E002D7201D630500FB05D3 /* Main.storyboard in Resources */,
+				E0CA7DC1201DC5F5003F5C8D /* Simulator Screen Shot - iPhone 6s - 2018-01-28 at 00.47.37.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,6 +196,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E0E002E7201D738800FB05D3 /* InterestCollectionViewCell.swift in Sources */,
+				E0E002E5201D635500FB05D3 /* Interest.swift in Sources */,
 				E0E002D4201D630500FB05D3 /* ViewController.swift in Sources */,
 				E0E002D2201D630500FB05D3 /* AppDelegate.swift in Sources */,
 			);
